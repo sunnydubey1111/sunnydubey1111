@@ -153,7 +153,18 @@ I am extending my Enterprise Java engineering background into production-oriente
 ![JBoss](https://img.shields.io/badge/JBoss-EE0000?style=flat-square&logo=redhat&logoColor=white)
 ![WebLogic](https://img.shields.io/badge/Oracle_WebLogic-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-**Supporting technologies:** Angular / AngularJS, HTML, XML, JSON, Swagger, UML, Eclipse, Spring Tool Suite, and IBM RAD.
+### Supporting Technologies
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![UML](https://img.shields.io/badge/UML-System_Modelling-5A67D8?style=flat-square)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+![Spring Tool Suite](https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![IBM RAD](https://img.shields.io/badge/IBM_RAD-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
 ---
 
