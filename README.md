@@ -17,7 +17,7 @@
 
 ---
 
-## 🔬 Featured Independent Research
+## 🔬 Featured AI Research
 
 ### [AgentTrajectorySentinel](https://github.com/sunnydubey1111/agent-trajectory-sentinel)
 
