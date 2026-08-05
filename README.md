@@ -1,197 +1,206 @@
-# Sunny Dubey
+# Hi, I'm Sunny Dubey 👋
 
-`🏗️ Software Architect | 🤖 AI Engineering | 🔬 AI Researcher | ☕ Java & Distributed Systems`
+### Senior Java Engineering Professional | Transitioning into Software Architecture | AI Engineering | Independent AI Research
 
-**14+ years of software engineering experience** · Building reliable enterprise platforms and dependable AI systems · 📍 Pune, India
-
-## ⌨️ What I Do
-
-- Architect scalable, secure, and observable enterprise applications and distributed systems
-- Design microservices, APIs, event-driven architectures, and enterprise integration solutions
-- Modernize Java platforms using Spring Boot, resilient architecture, and cloud-native patterns
-- Apply security, performance, scalability, and reliability practices to production systems
-- Build AI applications using RAG, agentic workflows, multi-agent systems, evaluations, and guardrails
-- Work with context engineering, MCP, local LLMs, fine-tuning, and production AI deployment
-- Conduct independent research on the reliability, monitoring, and repair of LLM agents
-- Lead technical design, code reviews, stakeholder collaboration, troubleshooting, and root-cause analysis
+📍 Pune, India  
+💼 14+ years in enterprise Java development  
+🎯 Preparing for Software Architect roles  
+🤖 Building production-oriented AI engineering skills  
+🔬 Conducting independent research on reliable LLM agents  
 
 ---
 
-## 🔬 Featured AI Research
+## About Me
+
+I am a Java engineering professional with **14+ years of experience** designing, developing, modernizing, and supporting enterprise applications across finance, healthcare, insurance, telecommunications, and retail.
+
+My experience includes microservices development, API design, event-driven systems, application security, performance optimization, observability, production troubleshooting, technical documentation, and collaboration with architects, stakeholders, DevOps, QA, and cross-functional teams.
+
+I am now deliberately building toward **Software Architect roles**, strengthening my capabilities in system design, architecture trade-offs, non-functional requirements, distributed systems, cloud-native design, and AI system architecture.
+
+Alongside enterprise engineering, I have learned **AI engineering** through hands-on work with RAG, AI agents, multi-agent systems, evaluations, guardrails, context engineering, fine-tuning, local LLMs, and deployment. I also conduct independent research on detecting and repairing failures in LLM-agent trajectories.
+
+---
+
+## Current Focus
+
+- Building architecture-level expertise on top of 14+ years of Java engineering
+- Designing scalable, secure, resilient, and observable distributed systems
+- Developing production-oriented AI applications and agentic workflows
+- Understanding architecture trade-offs across reliability, performance, security, cost, and maintainability
+- Conducting independent research on AI-agent reliability and runtime monitoring
+
+---
+
+## Featured Independent Research
 
 ### [AgentTrajectorySentinel](https://github.com/sunnydubey1111/agent-trajectory-sentinel)
 
 **Real-Time Detection and Repair of LLM Agent Failures**
 
-A lightweight research system for detecting when an autonomous LLM agent begins to derail during execution and initiating repair before the failure propagates.
+AgentTrajectorySentinel explores lightweight runtime monitoring for autonomous LLM agents. It studies whether failures can be detected early from agent execution trajectories and whether an agent can be rolled back and repaired before the failure propagates.
 
-- Learns normal execution dynamics from healthy agent trajectories
-- Combines reservoir computing, anomaly detection, and sequential monitoring
-- Uses behavioral, semantic, uncertainty, metadata, and grounding signals
-- Designed for real-time, CPU-only monitoring at approximately 200 µs per agent step
-- Evaluated across multiple agent frameworks, models, tasks, and failure types
+Research areas include:
 
----
-
-## 🤖 AI Engineering
-
-I am extending my enterprise architecture background into production-oriented AI engineering through hands-on learning, projects, and independent research across:
-
-- LLM fundamentals, transformers, embeddings, and semantic similarity
-- Retrieval-Augmented Generation: vector, hybrid, SQL, graph, and multimodal RAG
-- Vector databases, document parsing, chunking, reranking, and semantic search
-- Tool-calling agents, ReAct workflows, memory, routing, and multi-agent orchestration
-- LangChain and LangGraph application development
-- RAG and agent evaluation, guardrails, observability, and AI security
-- Context engineering and Model Context Protocol (MCP)
-- Fine-tuning with LoRA/QLoRA, synthetic-data pipelines, SLMs, and local inference
-- FastAPI-based services, model serving, caching, routing, scaling, and cost optimization
-- Independent research in lightweight runtime monitoring and repair of LLM-agent failures
+- Healthy-only, one-class monitoring of agent trajectories
+- Reservoir computing and Echo State Networks
+- Sequential anomaly detection and CUSUM
+- Behavioral, semantic, uncertainty, metadata, and grounding signals
+- Early failure detection, rollback, and repair
+- Lightweight CPU-only monitoring
+- Evaluation across multiple agent tasks, frameworks, and failure modes
 
 ---
 
-## 🧰 Tech Stack
+## Technical Stack
 
-### Enterprise Architecture & Java
+### Java & Enterprise Application Development
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-Database_Access-blue?style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+- Java, Spring Core, Spring MVC, Spring Boot, and Spring Cloud
+- Spring Security, OAuth 2.0, Spring Vault, and claims-based access control
+- Spring Data JPA, Hibernate, JDBC, Spring JDBC, and transaction management
+- RESTful APIs, SOAP services, OpenAPI, Swagger, Feign, JAXB, and Jackson
+- Spring AOP, Spring JMS, Spring Web Services, and service integration
+- JUnit, Mockito, PowerMockito, and integration testing
+
+### Distributed Systems & Architecture
+
 ![Microservices](https://img.shields.io/badge/Microservices-Architecture-02569B?style=flat-square)
-![REST](https://img.shields.io/badge/REST-APIs-02569B?style=flat-square)
-![SOAP](https://img.shields.io/badge/SOAP-Web_Services-6A5ACD?style=flat-square)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-Security-black?style=flat-square)
-![Spring Vault](https://img.shields.io/badge/Spring_Vault-Secrets_Management-4B275F?style=flat-square)
-![Feign](https://img.shields.io/badge/Feign-Service_Client-orange?style=flat-square)
 
-### Distributed Systems & Integration
+- Microservices and distributed-system design
+- Event-driven architecture with Apache Kafka and TIBCO EMS
+- Service discovery using Spring Eureka
+- Circuit Breaker, SAGA, CQRS, Factory, Builder, Singleton, and MVC patterns
+- Resilience through retries, timeouts, fallbacks, caching, and graceful degradation
+- API contracts, versioning, security, validation, and exception handling
+- High-level design, low-level design, UML, sequence, class, activity, and use-case diagrams
+- Database optimization, indexing, partitioning, query tuning, and connection pooling
+- Root-cause analysis, production troubleshooting, and legacy modernization
 
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![JMS](https://img.shields.io/badge/JMS-Asynchronous_Messaging-blue?style=flat-square)
-![TIBCO EMS](https://img.shields.io/badge/TIBCO_EMS-Messaging-red?style=flat-square)
-![Eureka](https://img.shields.io/badge/Eureka-Service_Discovery-green?style=flat-square)
-![Hystrix](https://img.shields.io/badge/Hystrix-Circuit_Breaker-orange?style=flat-square)
-![ZooKeeper](https://img.shields.io/badge/Apache_ZooKeeper-D22128?style=flat-square&logo=apache&logoColor=white)
-![SAGA](https://img.shields.io/badge/SAGA-Distributed_Transactions-blueviolet?style=flat-square)
-![CQRS](https://img.shields.io/badge/CQRS-Architecture-blueviolet?style=flat-square)
-![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven-Architecture-darkgreen?style=flat-square)
-
-### AI Engineering & LLM Systems
+### AI Engineering
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Workflows-4B0082?style=flat-square)
-![DSPy](https://img.shields.io/badge/DSPy-LLM_Programming-5B5B5B?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![Docling](https://img.shields.io/badge/Docling-Document_Parsing-175DDC?style=flat-square)
-![Semantic Router](https://img.shields.io/badge/Semantic_Router-Model_Routing-orange?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-black?style=flat-square)
-![LangSmith](https://img.shields.io/badge/LangSmith-Observability-1C3C3C?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Vector_|_Hybrid_|_SQL_|_Graph-6F42C1?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-ReAct_|_Tools_|_Memory-F97316?style=flat-square)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-Orchestration-8B5CF6?style=flat-square)
-![Evaluations](https://img.shields.io/badge/Evaluations-RAG_&_Agents-2563EB?style=flat-square)
-![Guardrails](https://img.shields.io/badge/Guardrails-AI_Safety-DC2626?style=flat-square)
-![LoRA](https://img.shields.io/badge/LoRA_|_QLoRA-Fine--Tuning-9333EA?style=flat-square)
-![Unsloth](https://img.shields.io/badge/Unsloth-Efficient_Fine--Tuning-111827?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-black?style=flat-square&logo=ollama&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-Inference_&_Serving-0F766E?style=flat-square)
-![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-PDFs_|_Images_|_RAG-0369A1?style=flat-square)
-![Reservoir Computing](https://img.shields.io/badge/Reservoir_Computing-Independent_Research-166534?style=flat-square)
 
-### Cloud, Platform & Delivery
+**Hands-on learning and project work in:**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![AWS AgentCore](https://img.shields.io/badge/AWS_AgentCore-Agent_Deployment-232F3E?style=flat-square)
-![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-Exposure-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+- Python, FastAPI, Streamlit, and LLM-powered application development
+- LLM fundamentals, transformers, embeddings, and semantic similarity
+- Vector databases and semantic search with Qdrant
+- Retrieval-Augmented Generation using vector, hybrid, SQL, graph, and multimodal approaches
+- LangChain, LangGraph, DSPy, Docling, and semantic routing
+- Tool calling, ReAct agents, memory, routing, conditional workflows, and agent orchestration
+- Multi-agent systems, sub-agents, hand-offs, and coordination patterns
+- RAG and agent evaluation, LangSmith observability, guardrails, and AI security
+- Model Context Protocol, MCP servers and clients, and context engineering
+- LoRA, QLoRA, synthetic-data pipelines, small language models, and Unsloth
+- Local inference with Ollama and model serving with vLLM
+- Caching, model routing, rate limiting, scaling, cost optimization, and inference engineering
+- Multimodal document and image processing
+- Deployment-oriented AI system design and AWS AgentCore concepts
 
-> Cloud and container technologies above include professional exposure and collaboration with DevOps teams; they are not presented as my primary specialization.
+### Databases & Messaging
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+- Oracle, DB2, SQL Server, MongoDB, and MySQL
+- Apache Kafka, ZooKeeper, TIBCO EMS, and JMS
+- Synchronous and asynchronous system integration
 
 ### Observability, Security & Quality
 
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
-![Zipkin](https://img.shields.io/badge/Zipkin-Distributed_Tracing-111827?style=flat-square)
-![Spring Actuator](https://img.shields.io/badge/Spring_Actuator-Health_&_Metrics-6DB33F?style=flat-square)
-![Wavefront](https://img.shields.io/badge/VMware_Wavefront-Observability-0091DA?style=flat-square)
-![JConsole](https://img.shields.io/badge/JConsole-JMX_Monitoring-ED8B00?style=flat-square)
-![VisualVM](https://img.shields.io/badge/VisualVM-JVM_Profiling-ED8B00?style=flat-square)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Checkmarx](https://img.shields.io/badge/Checkmarx-SAST-54B948?style=flat-square)
-![Black Duck](https://img.shields.io/badge/Black_Duck-Dependency_Security-111827?style=flat-square)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-Unit_Testing-78A641?style=flat-square)
-![PowerMockito](https://img.shields.io/badge/PowerMockito-Testing-78A641?style=flat-square)
-![Log4j2](https://img.shields.io/badge/Log4j2-Logging-D22128?style=flat-square)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-### Data & Runtime Platforms
+- Kibana, Zipkin, Spring Boot Actuator, VMware Wavefront, JConsole, and VisualVM
+- Log4j2, runtime metrics, health checks, logging, and distributed tracing
+- SonarQube, Checkmarx, Black Duck, code reviews, and vulnerability remediation
+- SSL/TLS, OAuth 2.0, Okta integration, secret management, and secure API design
+- Jenkins, JIRA, Bitbucket, Confluence, and Maven
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![WebSphere](https://img.shields.io/badge/IBM_WebSphere-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
-![JBoss](https://img.shields.io/badge/JBoss-EE0000?style=flat-square&logo=redhat&logoColor=white)
-![WebLogic](https://img.shields.io/badge/Oracle_WebLogic-F80000?style=flat-square&logo=oracle&logoColor=white)
+### Cloud & Platform Exposure
 
-**Supporting technologies:** Angular / AngularJS, HTML, XML, JSON, Swagger, UML, Eclipse, Spring Tool Suite, and IBM RAD.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+
+- Exposure to AWS, GCP, Docker, Kubernetes, and OpenShift
+- Collaboration with DevOps teams on deployment, configuration, database connectivity, and production support
+- Experience with WebSphere, Tomcat, JBoss, and WebLogic application servers
+
+> Cloud and container technologies are listed as professional exposure and supporting knowledge, not as my primary specialization.
 
 ---
 
-## 🧭 Architecture Focus
+## Architecture Areas I Am Building Expertise In
 
-- Distributed systems and microservices
+- System design and architecture trade-offs
+- Microservices and distributed systems
 - API and enterprise integration architecture
-- Event-driven architecture and asynchronous messaging
+- Event-driven systems and asynchronous communication
 - Resilience, fault tolerance, and graceful degradation
-- Application security, authentication, and secrets management
-- Performance engineering, scalability, and database optimization
-- Observability, runtime monitoring, and distributed tracing
+- Security architecture and secrets management
+- Performance, scalability, availability, and capacity considerations
+- Observability, monitoring, and production operability
+- Data architecture and database performance
 - Legacy modernization and cloud adoption
-- Production architecture for AI-powered systems
+- Architecture for AI-powered and agentic systems
+- Technical governance, documentation, and architecture decision records
 
 ---
 
-## 🎓 Background
+## Professional Strengths
 
-- **14+ years** across finance, healthcare, insurance, telecommunications, and retail
-- **M.S. in Electrical Engineering** — Texas A&M University–Kingsville
-- **B.E. in Electronics and Telecommunication Engineering**
-- **Certificate Programme in Project Management** — IIM Indore
+- Requirement gathering and stakeholder collaboration
+- High-level and low-level technical design
+- API and microservices development
+- Production support and incident troubleshooting
+- Root-cause analysis and corrective action
+- Performance and database optimization
+- Secure application development
+- Code reviews and engineering quality
+- Technical documentation and UML modelling
+- Team leadership and cross-functional collaboration
+
+---
+
+## Education & Learning
+
+- **Certificate Programme in Project Management** — Indian Institute of Management Indore
+- **Master of Science in Electrical Engineering** — Texas A&M University–Kingsville
+- **Bachelor's in Electronics and Telecommunication Engineering**
 - **AI Engineering Bootcamp for Software Engineers** — hands-on learning in RAG, agents, multi-agent systems, evaluation, MCP, fine-tuning, AI security, inference, and deployment
 
 ---
 
-## 📝 Engineering Philosophy
+## Engineering Principles
 
-- Architecture should simplify change, not merely organize complexity
-- Production reliability matters more than impressive prototypes
-- AI systems need evaluation, observability, security, and failure handling
-- Every component should justify its operational cost
-- Good systems are secure, explainable, maintainable, and resilient by design
+- Architecture should simplify change rather than merely organize complexity.
+- Reliability, security, maintainability, and operability are design requirements.
+- Technical choices should be driven by context and measurable trade-offs.
+- Production AI systems require evaluation, observability, guardrails, and failure handling.
+- Strong architecture grows from hands-on engineering experience and continuous learning.
 
 ---
 
-## 🤝 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sunny_Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-dubey-3943a813a/)
 [![Email](https://img.shields.io/badge/Email-sjkumardube%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjkumardube@gmail.com)
