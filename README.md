@@ -1,6 +1,6 @@
 # Sunny Dubey
 
-`🏗️ Software Architect | 🤖 AI Engineering | 🔬 Independent AI Researcher | ☕ Java & Distributed Systems`
+`🏗️ Software Architect | 🤖 AI Engineering | 🔬 AI Researcher | ☕ Java & Distributed Systems`
 
 **14+ years of software engineering experience** · Building reliable enterprise platforms and dependable AI systems · 📍 Pune, India
 
