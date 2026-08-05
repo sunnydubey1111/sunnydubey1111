@@ -2,7 +2,7 @@
 
 `☕ Senior Java Engineering Professional | 🏗️ Transitioning into Software Architecture | 🤖 AI Engineering | 🔬 AI Researcher`
 
-**14+ years in Java and enterprise software development. Currently transitioning in Software Architect roles while expanding into AI engineering and independent AI research.**· 📍 Pune, India
+**14+ years in Java and enterprise software development. Currently transitioning in Software Architect roles while expanding into AI engineering and AI research.**· 📍 Pune, India
 
 ## ⌨️ What I Do
 
