@@ -4,12 +4,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=700&color=15803D&center=true&vCenter=true&width=680&height=42&lines=Enterprise+Java%2C+Spring+Boot%2C+microservices;Event-driven+and+distributed+system+design;RAG%2C+agents%2C+evaluations%2C+and+guardrails;Independent+research+on+LLM+agent+reliability;Pune%2C+India"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=700&color=4F46E5&center=true&vCenter=true&width=680&height=42&lines=Enterprise+Java%2C+Spring+Boot%2C+microservices;Event-driven+and+distributed+system+design;RAG%2C+agents%2C+evaluations%2C+and+guardrails;Independent+research+on+LLM+agent+reliability;Pune%2C+India"
        alt="Enterprise Java, Spring Boot, microservices · Event-driven and distributed system design · RAG, agents, evaluations, and guardrails · Independent research on LLM agent reliability · Pune, India">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sunnydubey1111&color=16A34A&style=flat-square&label=Profile+views"
+  <img src="https://komarev.com/ghpvc/?username=sunnydubey1111&color=4F46E5&style=flat-square&label=Profile+views"
        alt="Profile view counter">
 </p>
 
@@ -36,10 +36,10 @@
 
 **Real-Time Detection and Repair of LLM Agent Failures**
 
-[![Stars](https://img.shields.io/github/stars/sunnydubey1111/agent-trajectory-sentinel?style=flat-square&color=16A34A)](https://github.com/sunnydubey1111/agent-trajectory-sentinel/stargazers)
+[![Stars](https://img.shields.io/github/stars/sunnydubey1111/agent-trajectory-sentinel?style=flat-square&color=4F46E5)](https://github.com/sunnydubey1111/agent-trajectory-sentinel/stargazers)
 [![Forks](https://img.shields.io/github/forks/sunnydubey1111/agent-trajectory-sentinel?style=flat-square)](https://github.com/sunnydubey1111/agent-trajectory-sentinel/network/members)
 [![Issues](https://img.shields.io/github/issues/sunnydubey1111/agent-trajectory-sentinel?style=flat-square)](https://github.com/sunnydubey1111/agent-trajectory-sentinel/issues)
-[![Last commit](https://img.shields.io/github/last-commit/sunnydubey1111/agent-trajectory-sentinel?style=flat-square&color=16A34A)](https://github.com/sunnydubey1111/agent-trajectory-sentinel/commits/main)
+[![Last commit](https://img.shields.io/github/last-commit/sunnydubey1111/agent-trajectory-sentinel?style=flat-square&color=4F46E5)](https://github.com/sunnydubey1111/agent-trajectory-sentinel/commits/main)
 ![Top language](https://img.shields.io/github/languages/top/sunnydubey1111/agent-trajectory-sentinel?style=flat-square)
 ![Repo size](https://img.shields.io/github/repo-size/sunnydubey1111/agent-trajectory-sentinel?style=flat-square)
 ![Commit activity](https://img.shields.io/github/commit-activity/m/sunnydubey1111/agent-trajectory-sentinel?style=flat-square)
@@ -226,12 +226,12 @@ I am extending my Enterprise Java engineering background into production-oriente
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sunnydubey1111&theme=default&hide_border=true&ring=16A34A&fire=16A34A&currStreakLabel=16A34A"
+  <img src="https://streak-stats.demolab.com/?user=sunnydubey1111&theme=default&hide_border=true&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5"
        alt="Contribution streak: total contributions, current streak, and longest streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnydubey1111&theme=github-compact&hide_border=true&line=16A34A&point=16A34A&area=true"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnydubey1111&theme=github-compact&hide_border=true&line=4F46E5&point=4F46E5&area=true"
        alt="Contribution activity over the last 31 days">
 </p>
 

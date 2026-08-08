@@ -11,8 +11,8 @@
   </style>
 
   <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
-    <!-- back wave: lighter green, full opacity -->
-    <path d="" fill="#4ADE80">
+    <!-- back wave: violet, full opacity -->
+    <path d="" fill="#A78BFA">
       <animate
         attributeName="d"
         dur="20s"
@@ -24,8 +24,8 @@
         values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
       </animate>
     </path>
-    <!-- front wave: brand green, full opacity -->
-    <path d="" fill="#16A34A">
+    <!-- front wave: indigo, full opacity -->
+    <path d="" fill="#4F46E5">
       <animate
         attributeName="d"
         dur="20s"
