@@ -8,6 +8,11 @@
        alt="Enterprise Java, Spring Boot, microservices · Event-driven and distributed system design · RAG, agents, evaluations, and guardrails · Independent research on LLM agent reliability · Pune, India">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sunnydubey1111&color=16A34A&style=flat-square&label=Profile+views"
+       alt="Profile view counter">
+</p>
+
 `☕ Senior Java Engineering Professional | 🏗️ Transitioning into Software Architecture | 🤖 AI Engineering | 🔬 AI Researcher`
 
 **Senior Java engineering professional transitioning toward Software Architecture, with AI engineering skills and AI research experience.**· 📍 Pune, India
@@ -30,6 +35,14 @@
 ### [AgentTrajectorySentinel](https://github.com/sunnydubey1111/agent-trajectory-sentinel)
 
 **Real-Time Detection and Repair of LLM Agent Failures**
+
+[![Stars](https://img.shields.io/github/stars/sunnydubey1111/agent-trajectory-sentinel?style=flat-square&color=16A34A)](https://github.com/sunnydubey1111/agent-trajectory-sentinel/stargazers)
+[![Forks](https://img.shields.io/github/forks/sunnydubey1111/agent-trajectory-sentinel?style=flat-square)](https://github.com/sunnydubey1111/agent-trajectory-sentinel/network/members)
+[![Issues](https://img.shields.io/github/issues/sunnydubey1111/agent-trajectory-sentinel?style=flat-square)](https://github.com/sunnydubey1111/agent-trajectory-sentinel/issues)
+[![Last commit](https://img.shields.io/github/last-commit/sunnydubey1111/agent-trajectory-sentinel?style=flat-square&color=16A34A)](https://github.com/sunnydubey1111/agent-trajectory-sentinel/commits/main)
+![Top language](https://img.shields.io/github/languages/top/sunnydubey1111/agent-trajectory-sentinel?style=flat-square)
+![Repo size](https://img.shields.io/github/repo-size/sunnydubey1111/agent-trajectory-sentinel?style=flat-square)
+![Commit activity](https://img.shields.io/github/commit-activity/m/sunnydubey1111/agent-trajectory-sentinel?style=flat-square)
 
 A lightweight research system for detecting when an autonomous LLM agent begins to derail during execution and initiating repair before the failure propagates.
 
@@ -210,8 +223,58 @@ I am extending my Enterprise Java engineering background into production-oriente
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sunnydubey1111&theme=default&hide_border=true&ring=16A34A&fire=16A34A&currStreakLabel=16A34A"
+       alt="Contribution streak: total contributions, current streak, and longest streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnydubey1111&theme=github-compact&hide_border=true&line=16A34A&point=16A34A&area=true"
+       alt="Contribution activity over the last 31 days">
+</p>
+
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=sunnydubey1111&data=followers,repositories,stars,commits&theme=nautilus"
+       alt="Profile summary: followers, repositories, stars, and commits">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnydubey1111&theme=github"
+       alt="Profile details summary card">
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunnydubey1111&theme=github"
+       alt="Repositories per language">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnydubey1111&theme=github"
+       alt="Most committed language">
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnydubey1111&theme=github"
+       alt="Overall GitHub stats">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnydubey1111&theme=github&utcOffset=5.5"
+       alt="Most productive time of day, IST">
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg"
+       alt="Isometric 3D view of the contribution calendar">
+</p>
+
+---
+
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sunny_Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-dubey-3943a813a/)
 [![Email](https://img.shields.io/badge/Email-sjkumardube%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjkumardube@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sunnydubey1111-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunnydubey1111)
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+       alt="Random developer quote">
+</p>
