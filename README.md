@@ -36,6 +36,9 @@
 
 **Real-Time Detection and Repair of LLM Agent Failures**
 
+[![arXiv](https://img.shields.io/badge/arXiv-2608.02464-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2608.02464)
+[![DOI](https://img.shields.io/badge/DOI-10.48550%2FarXiv.2608.02464-1F77B4?style=flat-square)](https://doi.org/10.48550/arXiv.2608.02464)
+
 [![Stars](https://img.shields.io/github/stars/sunnydubey1111/agent-trajectory-sentinel?style=flat-square&color=16A34A)](https://github.com/sunnydubey1111/agent-trajectory-sentinel/stargazers)
 [![Forks](https://img.shields.io/github/forks/sunnydubey1111/agent-trajectory-sentinel?style=flat-square)](https://github.com/sunnydubey1111/agent-trajectory-sentinel/network/members)
 [![Issues](https://img.shields.io/github/issues/sunnydubey1111/agent-trajectory-sentinel?style=flat-square)](https://github.com/sunnydubey1111/agent-trajectory-sentinel/issues)
