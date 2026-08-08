@@ -10,9 +10,18 @@
     @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
   </style>
 
+  <defs>
+    <!-- userSpaceOnUse keeps the gradient fixed while the wave path animates;
+         objectBoundingBox would make it shimmer as the bbox changes. -->
+    <linearGradient id="sky" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="854" y2="200">
+      <stop offset="0" stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#075985"/>
+    </linearGradient>
+  </defs>
+
   <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
-    <!-- back wave: lighter green, full opacity -->
-    <path d="" fill="#4ADE80">
+    <!-- back wave: light sky, full opacity -->
+    <path d="" fill="#7DD3FC">
       <animate
         attributeName="d"
         dur="20s"
@@ -24,8 +33,8 @@
         values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
       </animate>
     </path>
-    <!-- front wave: brand green, full opacity -->
-    <path d="" fill="#16A34A">
+    <!-- front wave: sky gradient, full opacity -->
+    <path d="" fill="url(#sky)">
       <animate
         attributeName="d"
         dur="20s"
