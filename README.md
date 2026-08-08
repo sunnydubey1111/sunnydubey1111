@@ -234,7 +234,7 @@ I am extending my Enterprise Java engineering background into production-oriente
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnydubey1111&theme=github-compact&hide_border=true&line=EAB308&point=EAB308&area=true"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnydubey1111&theme=github-compact&hide_border=true&line=EAB308&point=EAB308&area=true&area_color=EAB308"
        alt="Contribution activity over the last 31 days">
 </p>
 
