@@ -236,16 +236,6 @@ I am extending my Enterprise Java engineering background into production-oriente
 </p>
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=sunnydubey1111&data=followers,repositories,stars,commits&theme=nautilus"
-       alt="Profile summary: followers, repositories, stars, and commits">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnydubey1111&theme=github"
-       alt="Profile details summary card">
-</p>
-
-<p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunnydubey1111&theme=github"
        alt="Repositories per language">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnydubey1111&theme=github"
@@ -257,11 +247,6 @@ I am extending my Enterprise Java engineering background into production-oriente
        alt="Overall GitHub stats">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnydubey1111&theme=github&utcOffset=5.5"
        alt="Most productive time of day, IST">
-</p>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg"
-       alt="Isometric 3D view of the contribution calendar">
 </p>
 
 ---
