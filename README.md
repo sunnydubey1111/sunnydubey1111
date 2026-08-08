@@ -260,6 +260,9 @@ I am extending my Enterprise Java engineering background into production-oriente
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
-       alt="Random developer quote">
+  <i>
+    &ldquo;Years of engineering teach you how to build software.<br>
+    Architecture teaches you how to make the right systems.<br>
+    AI is changing what those systems can become.&rdquo;
+  </i>
 </p>
