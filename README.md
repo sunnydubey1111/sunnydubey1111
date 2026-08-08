@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=16A34A&height=200&section=header&text=Sunny%20Dubey&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Enterprise%20Java%20%C2%B7%20Architecture%20%C2%B7%20AI%20Engineering%20%C2%B7%20AI%20Research&descSize=15&descAlignY=55"
+  <img src="./assets/banner.svg" width="100%"
        alt="Sunny Dubey — Enterprise Java, Architecture, AI Engineering, AI Research">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=700&color=16A34A&center=true&vCenter=true&width=680&height=42&lines=Enterprise+Java%2C+Spring+Boot%2C+microservices;Event-driven+and+distributed+system+design;RAG%2C+agents%2C+evaluations%2C+and+guardrails;Independent+research+on+LLM+agent+reliability;Pune%2C+India"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=700&color=15803D&center=true&vCenter=true&width=680&height=42&lines=Enterprise+Java%2C+Spring+Boot%2C+microservices;Event-driven+and+distributed+system+design;RAG%2C+agents%2C+evaluations%2C+and+guardrails;Independent+research+on+LLM+agent+reliability;Pune%2C+India"
        alt="Enterprise Java, Spring Boot, microservices · Event-driven and distributed system design · RAG, agents, evaluations, and guardrails · Independent research on LLM agent reliability · Pune, India">
 </p>
 
