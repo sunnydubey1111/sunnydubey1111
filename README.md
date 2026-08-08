@@ -226,12 +226,12 @@ I am extending my Enterprise Java engineering background into production-oriente
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sunnydubey1111&theme=default&hide_border=true&ring=16A34A&fire=16A34A&currStreakLabel=16A34A"
+  <img src="https://streak-stats.demolab.com/?user=sunnydubey1111&theme=default&hide_border=true&ring=EAB308&fire=EAB308&currStreakLabel=A16207"
        alt="Contribution streak: total contributions, current streak, and longest streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnydubey1111&theme=github-compact&hide_border=true&line=16A34A&point=16A34A&area=true"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnydubey1111&theme=github-compact&hide_border=true&line=EAB308&point=EAB308&area=true"
        alt="Contribution activity over the last 31 days">
 </p>
 
