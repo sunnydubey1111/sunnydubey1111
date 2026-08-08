@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%"
+  <img src="./assets/banner-sky.svg?v=2" width="100%"
        alt="Sunny Dubey — Enterprise Java, Architecture, AI Engineering, AI Research">
 </p>
 
