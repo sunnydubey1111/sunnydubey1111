@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=700&color=15803D&center=true&vCenter=true&width=680&height=42&lines=Enterprise+Java%2C+Spring+Boot%2C+microservices;Event-driven+and+distributed+system+design;RAG%2C+agents%2C+evaluations%2C+and+guardrails;Independent+research+on+LLM+agent+reliability;Pune%2C+India"
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=700&color=0284C7&center=true&vCenter=true&width=680&height=42&lines=Enterprise+Java%2C+Spring+Boot%2C+microservices;Event-driven+and+distributed+system+design;RAG%2C+agents%2C+evaluations%2C+and+guardrails;Independent+research+on+LLM+agent+reliability;Pune%2C+India"
        alt="Enterprise Java, Spring Boot, microservices · Event-driven and distributed system design · RAG, agents, evaluations, and guardrails · Independent research on LLM agent reliability · Pune, India">
 </p>
 
